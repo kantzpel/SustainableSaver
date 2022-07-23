@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+@media only screen and (max-width: 600px)
+
+header {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #FFFFFF;
+}
+nav{
+  text-align: center;
+  line-height: 300%;
+}
+nav ul{
+  display: inline-block;
+}
+img {
+  margin: auto;
+  display: block;
+}
+h2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  font-type: 'Raleway';
+  align-items: center;
+  background-color: #FFFFFF;
+  color: #7393B3;
+}
+h3{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  font-type: 'Raleway';
+  align-items: center;
+  background-color: #FFFFFF;
+  color: #7393B3;
+}
+body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  font-family: 'Raleway';
+  align-items: center;
+  background-color: #7393B3;
+  color: #FFFFFF;
+}
+.title{
+}
+.logo { border-radius: 50%;}
+.navigation-links{
+  
+}
+.mission-statement{
+ justify-content: center;
+}
+.points-header {
+  text-align: center;
+}
+.page-points{
+  text-align: center;
+  display: flex;
+
+}
+.page-point {}
+.email-submit {}
